@@ -1,0 +1,5 @@
+-e .
+black
+pylint
+pytest>=4
+pytest-cov

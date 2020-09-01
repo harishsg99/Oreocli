@@ -1,0 +1,6 @@
+# See: https://oreowebproject.github.io/guide/config.html
+from starlette.config import Config
+
+config = Config(".env")
+
+PROVIDER_MODULES = ["{{ package }}.providerconf"]

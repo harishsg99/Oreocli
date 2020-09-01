@@ -1,0 +1,38 @@
+# {{ name }}
+
+This project was generated using [oreoweb CLI][repo] version {{ version }}.
+
+[repo]: https://github.com/harishsg99/oreoweb-cli
+
+## Install
+
+Install Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Usage
+
+Start the gunicorn server:
+
+```bash
+gunicorn {{ package }}.asgi:app
+```
+
+To enable hot reload, use the `--reload` option.
+
+The server will run at `http://localhost:8000`.
+
+Happy coding!
+
+## Getting help
+
+To get further help on oreoweb CLI:
+
+- Use `$ oreoweb --help`.
+- Read the [oreoweb CLI documentation][repo].
+
+To get help on oreoweb, visit the [oreoweb docs site](https://oreowebproject.github.io).
+
+If you like oreoweb, feel free to show some love by [starring the repo](https://github.com/harishsg99/oreoweb). ❣️
