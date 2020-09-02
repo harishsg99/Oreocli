@@ -1,4 +1,4 @@
-# oreoweb CLI 
+# oreoweb CLI [![Join the chat at https://gitter.im/Oreoweb/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Oreoweb/community) ![test](https://forthebadge.com/images/badges/made-with-python.svg)
 
 
 [pypi-url]: https://pypi.org/project/oreoweb-cli
