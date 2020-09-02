@@ -1,16 +1,11 @@
-# oreoweb CLI (UNMAINTAINED)
+# oreoweb CLI 
 
-[![pypi](https://img.shields.io/pypi/v/oreoweb-cli.svg)][pypi-url]
-[![travis](https://img.shields.io/travis/oreowebproject/oreoweb-cli.svg)](https://travis-ci.org/oreowebproject/oreoweb)
-[![black](https://img.shields.io/badge/code_style-black-000000.svg)](https://github.com/ambv/black)
-[![codecov](https://codecov.io/gh/oreowebproject/oreoweb-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/oreowebproject/oreoweb-cli)
-![license](https://img.shields.io/pypi/l/oreoweb-cli.svg)
 
 [pypi-url]: https://pypi.org/project/oreoweb-cli
 
 oreoweb CLI provides standard development tooling for [oreoweb].
 
-[oreoweb]: https://github.com/oreowebproject/oreoweb
+[oreoweb]: https://github.com/harishsg99/oreoweb
 
 ![](media/demo.gif)
 
